@@ -1,0 +1,12 @@
+addwindow.o
+chartwindow.o
+deletewindow.o
+gridwindow.o
+main.o
+mainwindow.o
+product.o
+moc_addwindow.o
+moc_chartwindow.o
+moc_deletewindow.o
+moc_gridwindow.o
+moc_mainwindow.o
